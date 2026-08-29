@@ -1,0 +1,13 @@
+Total Number of Testcases: 2
+================================================================================
+Running on Testcase 1:
+Parameters: batch_size = 32, next_n = 2, avg_kv = 1024
+cos_diff: 1.842970e-14
+Performance: 0.039544 TFLOPS
+================================================================================
+Running on Testcase 2:
+Parameters: batch_size = 128, next_n = 1, avg_kv = 4096
+cos_diff: 4.041212e-14
+Performance: 0.043919 TFLOPS
+================================================================================
+All Tests Ends
